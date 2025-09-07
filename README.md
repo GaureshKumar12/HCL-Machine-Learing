@@ -6,4 +6,3 @@ It is created as part of my preparation and project progress for **HCL**.
 
 ---
 
-## 📂 Repository Structure
